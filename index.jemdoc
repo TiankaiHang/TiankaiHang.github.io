@@ -1,8 +1,8 @@
 # jemdoc: menu{MENU}{}, nofooter
-= Tiankai Hang @ PALM, SEU
+= Tiankai Hang @ SEU
 
 ~~~
-{Intro}{img_left}{./htk.jpg}{}{180}{210}{./index.html}
+{Intro}{img_left}{./figs/htk.jpg}{}{170}{210}{./index.html}
 *(杭天恺)*\n
 /Tiankai Hang/\n
 Ph.D. Student\n
@@ -12,6 +12,7 @@ Ph.D. Student\n
 
 *Supervisor*: Professor Baining Guo \& Xin Geng \n
 *Email*: [tkhang@seu.edu.cn]\n
+[./files/Tiankai_Hang_Resume.pdf My CV here]\n
 ~~~
 
 == Biography

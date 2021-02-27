@@ -1465,8 +1465,8 @@ def procfile(f):
         continue
       elif imgblock:
         if IntroImg:
-          out(f.outf, '</td>\n<td><a href="https://www.seu.edu.cn/"><img src="./SEULogo.jpg" alt="" width="130px" height="130px" /></a>&nbsp;')
-          out(f.outf, '</td>\n<td><a href="http://palm.seu.edu.cn/"><img src="./PALMLogo.png" alt="" width="160px" height="150px" /></a>&nbsp;')
+          out(f.outf, '</td>\n<td><a href="https://www.seu.edu.cn/"><img src="./figs/SEULogo.jpg" alt="" width="130px" height="130px" /></a>&nbsp;')
+          # out(f.outf, '</td>\n<td><a href="http://palm.seu.edu.cn/"><img src="./figs/PALMLogo.png" alt="" width="160px" height="150px" /></a>&nbsp;')
           IntroImg = False
         out(f.outf, '</td></tr></table>\n')
         imgblock = False
