@@ -1,0 +1,61 @@
+# jemdoc: menu{MENU}{}, nofooter
+= Tiankai Hang @ PALM, SEU
+
+~~~
+{Intro}{img_left}{./htk.jpg}{}{180}{210}{./index.html}
+*(杭天恺)*\n
+/Tiankai Hang/\n
+Ph.D. Student\n
+[http://palm.seu.edu.cn PAttern Learning and Mining(PALM) Lab]\n
+[https://cse.seu.edu.cn/ School of computer science and engineering]\n
+[https://seu.edu.cn/ Southeast University, Nanjing]\n
+
+*Supervisor*: Professor Baining Guo \& Xin Geng \n
+*Email*: [tkhang@seu.edu.cn]\n
+~~~
+
+== Biography
+: {2020.09 \~ Now} - Ph.D, Department of [https://cse.seu.edu.cn/ School of Computer Science and Engineering] , [http://www.seu.edu.cn/ Southeast University], China
+: {2016.09 \~ 2020.06} - B.Sc, Department of [https://automation.seu.edu.cn/ School of Automation] , [http://www.seu.edu.cn/ Southeast University], China
+
+== Research Interests
+
+- Computer vision;
+- Semi-supervised / self-supervised learning;
+- Multi-media understanding
+
+== Publications
+
+~~~
+# - *Rui Wang*, Xuemeng Hu, Deyu Zhou, Yulan He, Yuxuan Xiong, Chenchen Ye, Haiyang Xu. Neural Topic Modeling with Bidirectional Adversarial Training, In: /Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL2020)/, 2020. \[[https://arxiv.org/abs/2004.12331 paper]\]\n
+# *Summary*: [https://arxiv.org/abs/2004.12331 We propose a neural topic modeling approach, called Bidirectional Adversarial Topic (BAT) model, which represents the first attempt of applying bidirectional adversarial training for neural topic modeling.]
+
+- To be achieved.
+
+~~~
+
+
+== Awards & Honors
+
+- Outstanding Graduates of Southeast University, 2020.
+- Meritorious Winner of Interdisciplinary Contest In Modeling, 2019.
+- 1st Prize The Chinese Mathematics Competitions(CMC), 2018.
+- 1st in Annual Advanced Mathematics Competition at Southeast University, 2018.
+- Merit Student 2017, 2018 (Southeast University)
+- HELLA Scholarship 2018 (Southeast University Education Fundation, Only 10 undergraduates)
+- National Scholarship 2017 (China, Top 0.2\%
+- 1st Prize Chinese Mathematical Olympiad in Provinces 2015 (Jiangsu Province, top 0.01\%
+
+== Teaching Assistant
+- Pattern Recognition(For undergraduate students(taught by Prof. Xin Geng and Prof. Gang Li), fall, 2020)
+
+== Academic Service
+# - *PC Member:*
+#     AAAI'19, ICML'19, NeurIPS'19, AAAI'20
+# - *Volunteer:* 
+#     The 17th China Workshop on Machine Learning and Applications (MLA'16), Nanjing, China, 2019.
+- To pursue.
+
+== Correspondence
+: {*Email*} - [tkhang@seu.edu.cn]
+: {*Laboratory*} - 439, Building of Computer Science and Engineering, Southeast University.
